@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teomendonca
 - 👀 I’m interested in Programming, Astronomy, technologies, and learning new things
 - 🌱 I’m currently learning Typescript, Javascript and Java 
-- 💞️ I’m looking to collaborate in projects that can improve my skills
+- 💞️ I’m looking to collaborate in projects that can improve my skills and learn even more
 - B'Energy telemetry from 2023 - 2024
 - 📫 How to reach me Instagram: mendaoncateo
 
