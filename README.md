@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript, Javascript and Java 
 - 💞️ I’m looking to collaborate in projects that can improve my skills and learn even more
 - B'Energy telemetry from 2023 - 2024
-- 📫 How to reach me Instagram: mendaoncateo
+- 📫 How to reach me Instagram: mendoncateo
 
 <!---
 Teomendonca/Teomendonca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
